@@ -3,7 +3,7 @@ export const education = [
   {
     degree: "Engineering Cycle: Data Engineering",
     school: "National School of Applied Sciences (ENSAH), Al-Hoceima",
-    year: "2024 - 2026",
+    year: "2024 - 2027",
     description: "Specialization in data engineering, covering big data processing, database systems, machine learning, and advanced software development."
   },
   {

@@ -13,8 +13,8 @@ export const user = {
     image: "/images/profileI.png", // Replace with your profile picture in the /public/images folder
     short: "I'm a passionate student developer with a love for creating innovative solutions that solve real-world problems.",
     long: [
-      "I am a student with a solid foundation in computer science and a strong passion for technology, data, and artificial intelligence. I am eager to apply my knowledge in practical settings while continuously developing new skills.",
-      "I have experience with different programming languages and tools, and I am always motivated to take on new challenges that help me grow both personally and professionally.",
+      "I am a 4th-year engineering student in Data Engineering at ENSAH, currently seeking a final-year project (PFA) internship. I have a strong interest in data engineering, software development, and artificial intelligence, and I am motivated to apply my technical knowledge to real-world projects.",
+      "Through my academic journey, I have developed a solid foundation in programming, databases, and data processing tools. I am eager to learn, adaptable, and always ready to take on new challenges that will allow me to grow both technically and professionally while contributing effectively to a team.",
     ],
   },
 };
