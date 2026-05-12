@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 .vercel
 .env
-*.mp4git add .gitignore
+*.mp4

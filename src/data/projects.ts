@@ -50,13 +50,9 @@ export const projects: Project[] = [
     "A complete medical management system developed using Python, PHP, and MySQL. The application allows managing doctors, patients, diagnoses, treatments, and medical records through an intuitive graphical interface. It also includes statistical dashboards, healthcare data visualization, and interactive management features designed to support hospital staff and medical workflows.",
 
   tech: ["Python", "PHP", "MySQL", "Tkinter"],
-
   github: "https://github.com/your-username/medical-management",
-
-  demo: "https://drive.google.com/file/d/1k44PXj2zHbKVaN-P8pm9Rolmzsw2sJ1A/preview",
-
+  demo: "/projects/vedeo_project.mp4",
   image: "/projects/ic4.png",
-
   isFeatured: true,
 },
   
