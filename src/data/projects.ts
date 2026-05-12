@@ -41,14 +41,20 @@ export const projects: Project[] = [
     image: "/projects/Xou.png",
   },
   {
-    title: "Medical Data & Statistics Management",
-    shortDescription: "A Python & PHP application for managing medical records and statistics.",
-    fullDescription:
-      "Built using Python, PHP, and MySQL, this project allows recording and analyzing medical data. It features statistical dashboards and visualization tools for monitoring healthcare information.",
-    tech: ["Python", "PHP", "MySQL"],
-    github: "https://github.com/your-username/medical-management",
-    image: "/projects/ic4.png",
-  },
+  title: "Medical Data & Statistics Management",
+
+  shortDescription:
+    "A healthcare management application for managing doctors, patients, medical records, and healthcare statistics.",
+
+  fullDescription:
+    "A complete medical management system developed using Python, PHP, and MySQL. The application allows managing doctors, patients, diagnoses, treatments, and medical records through an intuitive graphical interface. It also includes statistical dashboards, healthcare data visualization, and interactive management features designed to support hospital staff and medical workflows.",
+
+  tech: ["Python", "PHP", "MySQL", "Tkinter"],
+  github: "https://github.com/your-username/medical-management",
+  demo: "/projects/medical-demo.mp4",
+  image: "/projects/ic4.png",
+  isFeatured: true,
+},
   
   {
     title: "Car Rental Management System",
